@@ -67,4 +67,3 @@ const mainLevels: LevelType[] = [
 
 export default mainLevels;
 
-
